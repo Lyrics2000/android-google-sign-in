@@ -1,0 +1,217 @@
+{
+  "project_info": {
+    "project_number": "173493942399",
+    "firebase_url": "https://betway-95542.firebaseio.com",
+    "project_id": "betway-95542",
+    "storage_bucket": "betway-95542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:c191b5f0534791b6",
+        "android_client_info": {
+          "package_name": "com.betapp.bem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-4ska08pngq1f9oiffk00u9emib9ua03v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betapp.bem",
+            "certificate_hash": "fcec3a7dca7a57162891dfeec97a7ca53e0f4345"
+          }
+        },
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:e16fb48b18951883",
+        "android_client_info": {
+          "package_name": "com.betapp.mnip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-prd4bhnn3jbqg718b4gigf67mj95it8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betapp.mnip",
+            "certificate_hash": "fcec3a7dca7a57162891dfeec97a7ca53e0f4345"
+          }
+        },
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:fc43aefafce4cac317e74a",
+        "android_client_info": {
+          "package_name": "com.handlings.signinwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:b09aa6b284a034b6",
+        "android_client_info": {
+          "package_name": "com.luzado.gamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-osg11e3q166acrv2atlvl52nad6r853k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luzado.gamer",
+            "certificate_hash": "e87517860529ba82a20e261e96b54ec44478a7ce"
+          }
+        },
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:9ac6b44468cdec6a17e74a",
+        "android_client_info": {
+          "package_name": "com.sync.findmylostphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-7kh32qrci2bgm62dn8qrhprmj8u2clbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sync.findmylostphone",
+            "certificate_hash": "b827c30728fb391f1fc9d0156f4bcf303c753d96"
+          }
+        },
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173493942399:android:638a8918111178b417e74a",
+        "android_client_info": {
+          "package_name": "com.syncfindphonepro.findphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQJewuevIlO9UgdCpDV2agcYRnj525Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173493942399-g3jto69s4cfj0b012ldt1noh7l8a1vmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
